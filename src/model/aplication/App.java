@@ -15,7 +15,7 @@ public class App {
         BufferedReader br = new BufferedReader(ips);
 
         try{
-            System.out.println("\n===========ACCOUNT==========\n");
+            System.out.println("\n============ACCOUNT===========\n");
         
             System.out.print("Account Number: ");
             Integer number = Integer.parseInt(br.readLine());
